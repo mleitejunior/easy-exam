@@ -1,0 +1,23 @@
+.main {
+  width: 100vw;
+  height: 100%;
+  position: absolute;
+  overflow-y: hidden;
+}
+
+.container {
+  height: 100vh;
+}
+
+.menu {
+  background-color: #1b6f66;
+}
+
+.content {
+  background-color: #43d8c9;
+}
+
+.logo {
+  width: 160px;
+  padding: 10px 0px;
+}
